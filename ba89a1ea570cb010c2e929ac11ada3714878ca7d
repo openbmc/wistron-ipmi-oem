@@ -1,0 +1,8 @@
+Ok-To-Test+1: Andy_YF Wang <Andy_YF_Wang@wistron.com>
+Verified+1: Andy_YF Wang <Andy_YF_Wang@wistron.com>
+Code-Review+2: Andy_YF Wang <Andy_YF_Wang@wistron.com>
+Submitted-by: Ben Pai <Ben_Pai@wistron.com>
+Submitted-at: Wed, 11 Nov 2020 03:04:06 +0000
+Reviewed-on: https://gerrit.openbmc-project.xyz/c/openbmc/wistron-ipmi-oem/+/38027
+Project: openbmc/wistron-ipmi-oem
+Branch: refs/heads/master
