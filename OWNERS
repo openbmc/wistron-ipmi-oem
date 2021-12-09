@@ -33,6 +33,7 @@
 
 owners:
 - ben_pai@wistron.com
+- bob_king@wistron.com
 
 reviewers:
 
@@ -41,4 +42,7 @@ matches:
 openbmc:
 - name: Ben Pai
   email: ben_pai@wistron.com
+  discord: NA
+- name: Bob King
+  email: bob_king@wistron.com
   discord: NA
